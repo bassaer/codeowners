@@ -1,3 +1,3 @@
 # codeowners
 
-1
+2
